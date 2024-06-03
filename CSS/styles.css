@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  width: 100%;
+  height: 100vh;
+  background: url('/img/bng.jpg');
+  background-size: cover;
+}
+
+/*  #heading_id {
+  color: blue;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: 900;
+} */
+
+/*h1 {
+  color: blue;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: 900;
+}*/
+
+/*.heading_class {
+  color: blue;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: 900;
+}*/
+.heading_class.heading_sub_class {
+  color: blue;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+
+h1.heading_class.heading_sub_class.heading_sub_class_new {
+  font-size: 40px;
+}
