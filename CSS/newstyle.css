@@ -1,11 +1,17 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-header {
-  width: 100%;
-  height: 100vh;
-  background: url('/img/bng.jpg');
-  background-size: cover;
-}
+
+    <style type="text/css">
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      header {
+        width: 100%;
+        height: 100vh;
+        background: url('img/bng.jpg');
+        background-size: cover;
+      }
+    </style>
+  </head>
+  <body></body>
+</html>
